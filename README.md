@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ceyhun</h1>
+<h1 align="center">Ceyhun Kıvanç Demir</h1>
 <h3 align="center">SOC Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
