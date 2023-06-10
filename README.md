@@ -1,5 +1,5 @@
 <h1 align="center">Ceyhun Kıvanç Demir</h1>
-<h3 align="center">SOC Engineer</h3>
+<h3 align="center">SOC Analyst L2</h3>
 <h4 align="center">|EDR| |SIEM| |Firewall| |Malware Analysis| |Linux|</h4>
 
 <h3 align="left">Connect with me:</h3>
