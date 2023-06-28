@@ -2,7 +2,7 @@
 <h3 align="center">SOC Analyst L2</h3>
 <h4 align="center">|EDR| |SIEM| |Firewall| |Malware Analysis| |Linux|</h4>
 
-<script src="https://tryhackme.com/badge/1938031"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/KivancD.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
