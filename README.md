@@ -1,6 +1,6 @@
 <h1 align="center">Ceyhun Kıvanç Demir</h1>
-<h3 align="center">SOC Analyst L2</h3>
-<h4 align="center">|EDR| |SIEM| |Firewall| |Malware Analysis| |Linux|</h4>
+<h3 align="center">SOC Engineer</h3>
+<h4 align="center">|XDR| |SIEM| |Firewall| |Linux|</h4>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/KivancD.png" alt="TryHackMe">
 
